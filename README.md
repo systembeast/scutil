@@ -1,0 +1,2 @@
+# scutil
+Scala Utils
